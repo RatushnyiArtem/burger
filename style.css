@@ -48,6 +48,10 @@
     z-index: 10;
     overflow: hidden;
 }
+.header_text{
+    position: relative;
+    top: 57px;
+}
 
  @media screen and (max-width:700px) {
  .burger::before{
